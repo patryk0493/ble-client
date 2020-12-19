@@ -2,7 +2,7 @@ import { Button, Col, Divider, notification, Row, Statistic, Tag } from 'antd';
 import Layout from 'antd/lib/layout';
 import { Content, Footer } from 'antd/lib/layout/layout';
 import React, { useState } from "react";
-import { CheckCircleOutlined, DisconnectOutlined, ExperimentOutlined, FieldTimeOutlined, LikeOutlined, RightCircleOutlined } from '@ant-design/icons';
+import { CheckCircleOutlined, DisconnectOutlined, FieldTimeOutlined } from '@ant-design/icons';
 import { AIR_CONDITION_CHARACTERSTICS, Characteristic, SERVICE_UUID_3, SERVICE_UUID, SERVICE_UUID_2 } from "../../consts";
 
 type CharacteristicValueType = string | number | undefined;
