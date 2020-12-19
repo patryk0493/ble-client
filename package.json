@@ -1,5 +1,5 @@
 {
-  "name": "bluetooth-web-api",
+  "name": "ble-client",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -23,7 +23,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "serve": "serve -s build"
   },
   "browserslist": {
     "production": [
