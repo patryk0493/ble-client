@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ble-client/static/js/main.b2dac83f.chunk.js",
+    "main.js.map": "/ble-client/static/js/main.b2dac83f.chunk.js.map",
+    "runtime-main.js": "/ble-client/static/js/runtime-main.4719b4ad.js",
+    "runtime-main.js.map": "/ble-client/static/js/runtime-main.4719b4ad.js.map",
+    "static/css/2.4d98ed14.chunk.css": "/ble-client/static/css/2.4d98ed14.chunk.css",
+    "static/js/2.b902dfc6.chunk.js": "/ble-client/static/js/2.b902dfc6.chunk.js",
+    "static/js/2.b902dfc6.chunk.js.map": "/ble-client/static/js/2.b902dfc6.chunk.js.map",
+    "index.html": "/ble-client/index.html",
+    "static/css/2.4d98ed14.chunk.css.map": "/ble-client/static/css/2.4d98ed14.chunk.css.map",
+    "static/js/2.b902dfc6.chunk.js.LICENSE.txt": "/ble-client/static/js/2.b902dfc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4719b4ad.js",
+    "static/css/2.4d98ed14.chunk.css",
+    "static/js/2.b902dfc6.chunk.js",
+    "static/js/main.b2dac83f.chunk.js"
+  ]
+}
