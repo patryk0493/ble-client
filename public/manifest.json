@@ -1,0 +1,15 @@
+{
+    "name": "Air Condition App",
+    "short_name": "Air Condition App",
+    "icons": [
+        {
+            "src": "",
+            "sizes": "",
+            "type": ""
+        }
+    ],
+    "start_url": "/",
+    "background_color": "white",
+    "theme_color": "",
+    "display": "standalone"
+}
